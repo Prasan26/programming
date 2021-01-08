@@ -8,7 +8,7 @@ main() {
     cin>>r;
     area = 3.14*r*r;
     
-    cout << "the area of the circle should be " << area;
+    cout << "the area of the circle is " << area;
     
     return 0;
 }
