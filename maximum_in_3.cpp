@@ -27,4 +27,5 @@ else{
         cout<<c<<endl;
     }
 }
-return 0}
+return 0;
+}
