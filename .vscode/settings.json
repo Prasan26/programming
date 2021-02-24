@@ -2,5 +2,6 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "iostream": "cpp"
-    }
+    },
+    "python.pythonPath": "C:\\Users\\Asus\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
 }
